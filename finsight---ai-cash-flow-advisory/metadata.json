@@ -1,0 +1,6 @@
+{
+  "name": "Finsight - AI Cash-Flow Advisory",
+  "description": "AI-powered financial intelligence and liquidity crisis prevention for small manufacturing and wholesale businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
